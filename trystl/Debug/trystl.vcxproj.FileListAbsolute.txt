@@ -1,0 +1,2 @@
+D:\workspace\c++\trystl\Debug\trystl.exe
+D:\workspace\c++\trystl\Debug\trystl.pdb

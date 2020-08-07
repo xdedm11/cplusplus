@@ -1,0 +1,2 @@
+D:\workspace\c++\clockdisplay\Debug\clockdisplay.exe
+D:\workspace\c++\clockdisplay\Debug\clockdisplay.pdb

@@ -1,0 +1,9 @@
+﻿  Circle.cpp
+  main.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: virtual __thiscall Shape::~Shape(void)" (??1Shape@@UAE@XZ)，函数 "public: virtual __thiscall Ellipse::~Ellipse(void)" (??1Ellipse@@UAE@XZ) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall Shape::resize(void)" (?resize@Shape@@UAEXXZ)
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Ellipse::Ellipse(float,float)" (??0Ellipse@@QAE@MM@Z)，函数 "public: __thiscall Circle::Circle(float)" (??0Circle@@QAE@M@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: virtual void __thiscall Ellipse::render(void)" (?render@Ellipse@@UAEXXZ)，函数 "void __cdecl func(void)" (?func@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: virtual void __thiscall Circle::render(void)" (?render@Circle@@UAEXXZ)，函数 "void __cdecl func(void)" (?func@@YAXXZ) 中引用了该符号
+D:\workspace\c++\graph\Debug\graph.exe : fatal error LNK1120: 5 个无法解析的外部命令

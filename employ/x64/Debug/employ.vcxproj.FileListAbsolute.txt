@@ -1,0 +1,2 @@
+D:\workspace\c++\employ\x64\Debug\employ.exe
+D:\workspace\c++\employ\x64\Debug\employ.pdb

@@ -1,0 +1,2 @@
+D:\workspace\c++\template\Debug\template.exe
+D:\workspace\c++\template\Debug\template.pdb

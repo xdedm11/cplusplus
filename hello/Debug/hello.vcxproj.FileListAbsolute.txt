@@ -1,0 +1,2 @@
+D:\workspace\c++\hello\hello\Debug\hello.exe
+D:\workspace\c++\hello\hello\Debug\hello.pdb

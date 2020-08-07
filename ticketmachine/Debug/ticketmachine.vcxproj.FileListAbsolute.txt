@@ -1,0 +1,2 @@
+D:\workspace\c++\TicketMachine\Debug\ticketmachine.exe
+D:\workspace\c++\TicketMachine\Debug\ticketmachine.pdb

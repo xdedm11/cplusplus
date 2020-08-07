@@ -1,0 +1,2 @@
+D:\workspace\c++\howmany\Debug\howmany.exe
+D:\workspace\c++\howmany\Debug\howmany.pdb
